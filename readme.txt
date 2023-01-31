@@ -21,12 +21,3 @@ step5: Click on the “Import” tab and choose the file (.sql) and import it.
 
 step6: Now, go to URL "http://localhost/dbms/".
 
-
-
-Made by:
-
-Abhay Aggarwal, 2010110016
-
-Arushi Agarwal, 2010110140
-
-Palak Jain, 2010110453
