@@ -20,4 +20,3 @@ step4: Create a Database "newdonatetheblood".
 step5: Click on the “Import” tab and choose the file (.sql) and import it.
 
 step6: Now, go to URL "http://localhost/BloodDonation-Management-System/".
-
